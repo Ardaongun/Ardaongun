@@ -62,3 +62,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ardaongun&theme=tokyonight&hide_border=true&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" width="70%"/>
 </p>
 
+---
+
+<div align="center">
+  
+  ![snake gif](https://github.com/Ardaongun/Ardaongun/blob/output/github-snake-dark.svg)
+
+</div>
+
